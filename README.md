@@ -1,3 +1,1 @@
-# rsschool-cv
-
-https://github.com/Mrcrabus/rsschool-cv/cv
+https://Mrcrabus.github.io/rsschool-cv/cv
