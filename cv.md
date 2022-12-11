@@ -3,13 +3,13 @@
 
 ---
 
-### Contact information
+### Contact information:
 
-__Phone:__ +375(33)674-25-91
-__Email:__  svonktv@gmail.com
-__Telegram:__ @Whysobad671
-[LinkedIn](https://www.linkedin.com/in/igor-bodenchyck-8b59971a6/)
-[GitHub](https://github.com/Mrcrabus)
+- __Phone:__ +375(33)674-25-91
+- __Email:__  svonktv@gmail.com
+- __Telegram:__ @Whysobad671
+- [LinkedIn](https://www.linkedin.com/in/igor-bodenchyck-8b59971a6/)
+- [GitHub](https://github.com/Mrcrabus)
 
 ---
 
